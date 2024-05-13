@@ -31,9 +31,11 @@ cd quiz
 pip install -r requirements.txt
 ```
 
-4. Banco de dados feito com db sqlite
+4. Banco de dados feito com db sqlite:
 
 ```bash
 python manage.py migrate
 python manage.py runserver
 ```
+
+5. Configure o admin do django para implementar as perguntas no quiz.
