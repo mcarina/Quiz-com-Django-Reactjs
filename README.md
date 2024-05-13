@@ -1,5 +1,6 @@
 # Projeto com React.js e Django REST Framework
-
+>_Node 18.18 ou superior, python 3.11 ou superior e django version 5_
+>
 >Este projeto consiste em um Quiz desenvolvido utilizando React.js para o frontend e Django REST Framework para o backend.
 
 ## Funcionalidades
